@@ -1,17 +1,15 @@
 # Arduino-Timer
-Arduino timer with 3 buttons and 2x16 LCD
+Arduino timer with 3 buttons, alarm and 2x16 LCD
 
-There are 3 buttons.
+## Technologies used
+C++, Arduino
 
-Middle button:
--timer ON/OFF (time set has to be != 0)
--can pause the timer
+### How it works
+There are three buttons:
+1) Middle button - timer ON/OFF (time gas to be != 0), it can also PAUSE
+2) Right button - INCREMENTS time set by 1 minute
+3) Left button - DECREMENTS time set by 1 minute. RESETS timer if the time was set
 
-Right button:
--increments time set by 1 minute
+### Alarm
+Alarm can be toggled off by clicking any button
 
-Left button:
--decrements time set by 1 minute
--restets whole timer if the time has been set
-
-Alarm can be toggled off by simply pushing any button
