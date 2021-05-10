@@ -13,3 +13,6 @@ There are three buttons:
 ### Alarm
 Alarm can be toggled off by clicking any button
 
+### Photos
+![Screenshot from 2021-05-10 18-24-08](https://user-images.githubusercontent.com/59282537/117692106-f8bc7380-b1bc-11eb-96f4-4afd462ce51c.png)
+
